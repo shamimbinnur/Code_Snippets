@@ -1,6 +1,6 @@
 // Author: Shamim Bin Nur
-// Github:
-// Linkedin:
+// Github: https://github.com/shamimbinnur
+// Linkedin: https://www.linkedin.com/in/shamimbinnur
 // Description: This is a precise and simply descibed code snipet for getting started with MongoDB in Node js.
 
 
